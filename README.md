@@ -1,7 +1,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
 
-# Fifa World Cup Simulator
+# Football_competition Simulator
 
 ## What's this game ?  
 
